@@ -20,7 +20,7 @@ dcrypt_crypto.decrypt_entire_directory(path)
 
 ## What I learned
 
-<ul>Symmetric Cryptography</ul>
-<ul>XOR Function</ul>
-<ul>Recursion</ul>
-<ul>Stack Data Structure</ul>
+<li>Symmetric Cryptography</li>
+<li>XOR Function</li>
+<li>Recursion</li>
+<li>Stack Data Structure</li>
