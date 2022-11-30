@@ -1,7 +1,3 @@
-# Dcrypt Encryption Tool
-
-Dcrypt is an encryption tool capable of encrypting files and directories. When encrypting directories it also encrypts directories inside of it. I originally wrote the program on April 2022, I was reading a book about cryptography and I decided to make a small encryption program for fun.
-
 ## Usage
 
 ```python
@@ -17,10 +13,3 @@ dcrypt_crypto.encrypt_entire_directory(path)
 dcrypt_crypto.decrypt_entire_directory(path)
 
 ```
-
-## What I learned
-
-<li>Symmetric Cryptography</li>
-<li>XOR Function</li>
-<li>Recursion</li>
-<li>Stack Data Structure</li>
